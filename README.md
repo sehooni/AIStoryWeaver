@@ -7,4 +7,4 @@ output : 퀘스트 스토리 생성
 
 app.py를 실행시키면, localhost를 통해 웹서비스를 이용하실 수 있습니다.
 
-<img src="https://github.com/user-attachments/assets/c9cf315c-1b0b-4cce-8447-0ee7039eb97a">
+<img src="https://github.com/user-attachments/assets/2dc66176-281b-4b0c-8825-08fd2092ed0f">
