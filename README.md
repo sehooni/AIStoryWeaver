@@ -1,5 +1,5 @@
 # Game Scenario AI generator
-
+## 2024 smilegate AI service weekly-ton **대상수상**
 ChatGPT API alc Dall-E 3 API 연동을 통하여, 게임 내의 퀘스트 스토리 생성에 도움을 준다.
 
 input : 등장인물, 퀘스트 아이템, 주요 이벤트 (사건)
