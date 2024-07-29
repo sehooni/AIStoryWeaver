@@ -7,4 +7,6 @@ output : 퀘스트 스토리 생성
 
 app.py를 실행시키면, localhost를 통해 웹서비스를 이용하실 수 있습니다.
 
+- *You have to need the OpenAI API key! You can get the key following [link](https://platform.openai.com/api-keys)!*
+
 <img src="https://github.com/user-attachments/assets/2dc66176-281b-4b0c-8825-08fd2092ed0f">
